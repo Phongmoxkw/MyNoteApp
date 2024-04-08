@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Note App</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="listnotetitle">List of Notes</string>
+    <string name="addnotetitle">Add Note</string>
+</resources>
